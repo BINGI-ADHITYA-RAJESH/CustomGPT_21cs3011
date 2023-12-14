@@ -1,3 +1,1 @@
-CustomGPT
-21cs3011
-Bingi Adhitya Rajesh
+This is a chatbot that can give answers on your own dataset.
